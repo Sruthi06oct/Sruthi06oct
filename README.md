@@ -1,6 +1,8 @@
-#  Creating stuff that's irresistible ✨
+# 💫 Creating stuff that's irresistible ✨
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=F70000&lines=Hey+there!+I'm+Sruthi;AI%7C+ML+Enthusiast;Future+Software+Engineer;Welcome+to+my+GitHub+Profile!" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&lines=Hey+there!+I'm+Sruthi;Python+%7C+Java+%7C+C+Developer;AI+%7C+Web+Enthusiast;Welcome+to+my+GitHub!" />
+</p>
 
 ---
 
@@ -9,52 +11,49 @@
 * 🌱 I’m currently learning **Machine Learning & AWS**
 * 💻 Interested in **AI, Web Development & Problem Solving**
 * 💞️ Looking to collaborate on **Python & Web Projects**
-* 💬 Ask me about **MERN, Python, AI basics**
-* 📫 Reach me at: **[velugulasruthi06@gmail.com](mailto:velugulasaruthi06@gmail.com)**
+* 💬 Ask me about **Python, Java, C, Web**
+* 📫 Reach me at: **[velugulasruthi06@gmail.com](mailto:velugulasruthi06@gmail.com)**
 
 ---
 
 ## 🚀 Tech Stack
+
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-
-### 🌐 Web Development
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
-
-### ☁️ Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazon-aws)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visual-studio-code)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Web Development
 
-![Sruthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sruthi06oct\&show_icons=true\&theme=tokyonight)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sruthi06oct\&theme=tokyonight)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthi06oct\&layout=compact\&theme=tokyonight)
+### ☁️ Tools
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
 
 ## 📬 Catch me!
 
-<p align="left">
+<p align="center">
   <a href="mailto:velugulasruthi06@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/velugula-sruthi-682153331">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-
+---
 
 ⭐️ From [Sruthi06oct](https://github.com/Sruthi06oct)
