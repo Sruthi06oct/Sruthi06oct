@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning ML & AWS
 - 💞️ I’m looking to collaborate on Python & Web projects
 - 💬 Ask me about MERN
-- 📫 How to reach me: yourmail@gmail.com
+- 📫 How to reach me: velugulasruthi06@gmail.com
