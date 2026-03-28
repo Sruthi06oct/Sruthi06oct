@@ -1,6 +1,6 @@
 #  Creating stuff that's irresistible ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hey+there!+I'm+Sruthi;AI+%7C+ML+Enthusiast;Future+Software+Engineer;Welcome+to+my+GitHub+Profile!" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=F70000&lines=Hey+there!+I'm+Sruthi;AI%7C+ML+Enthusiast;Future+Software+Engineer;Welcome+to+my+GitHub+Profile!" />
 
 ---
 
@@ -15,7 +15,6 @@
 ---
 
 ## 🚀 Tech Stack
-
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
@@ -49,11 +48,13 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Sruthi06oct\&theme=radical)
 
+
+
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
+* 💼 LinkedIn: https://www.linkedin.com/in/velugula-sruthi-682153331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 * 🌍 Portfolio: https://your-portfolio.com
 * 📧 Email: [velugulasruthi06@gmail.com](mailto:velugulasruthi06@gmail.com)
 
