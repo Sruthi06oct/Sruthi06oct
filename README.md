@@ -54,7 +54,7 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/velugula-sruthi-682153331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* 💼 LinkedIn: https://www.linkedin.com/in/velugula-sruthi-682153331
 * 🌍 Portfolio: https://your-portfolio.com
 * 📧 Email: [velugulasruthi06@gmail.com](mailto:velugulasruthi06@gmail.com)
 
