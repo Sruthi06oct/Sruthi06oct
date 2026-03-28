@@ -42,28 +42,19 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthi06oct\&layout=compact\&theme=tokyonight)
 
----
 
-## 🏆 Achievements & Activity
+## 📬 Catch me!
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sruthi06oct\&theme=radical)
+<p align="left">
+  <a href="mailto:velugulasruthi06@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/velugula-sruthi-682153331">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/velugula-sruthi-682153331
-* 🌍 Portfolio: https://your-portfolio.com
-* 📧 Email: [velugulasruthi06@gmail.com](mailto:velugulasruthi06@gmail.com)
-
----
-
-## 💡 Fun Fact
-
-✨ I love building AI projects and turning ideas into reality!
-
----
 
 ⭐️ From [Sruthi06oct](https://github.com/Sruthi06oct)
