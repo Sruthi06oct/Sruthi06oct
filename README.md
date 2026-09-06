@@ -1,59 +1,66 @@
-# 💫 Creating stuff that's irresistible ✨
+# 👋 Hey, I'm Sruthi! 💫
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&lines=Hey+there!+I'm+Sruthi;Python+%7C+Java+%7C+C+Developer;AI+%7C+Web+Enthusiast;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sruthi+Velugula+%F0%9F%91%8B;Python+%7C+Java+%7C+C+Developer+%F0%9F%92%BB;AI+%7C+Machine+Learning+Enthusiast+%F0%9F%A4%96;Web+Developer+%7C+Problem+Solver+%F0%9F%9A%80;Always+Learning.+Always+Building.+%E2%9C%A8" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sruthi06oct&label=Profile%20Views&color=00C2FF&style=flat" />
 </p>
 
 ---
 
-## 👋 Hi there, I'm Sruthi
+## 🌟 About Me
 
-* 🌱 I’m currently learning **Machine Learning & AWS**
-* 💻 Interested in **AI, Web Development & Problem Solving**
-* 💞️ Looking to collaborate on **Python & Web Projects**
-* 💬 Ask me about **Python, Java, C, Web**
-* 📫 Reach me at: **[velugulasruthi06@gmail.com](mailto:velugulasruthi06@gmail.com)**
+🎓 I'm a passionate developer who loves **building, learning, and exploring technology**.
 
----
+- 🌱 Currently learning **Machine Learning & AWS**
+- 🤖 Interested in **Artificial Intelligence & Data Science**
+- 🌐 Exploring **Web Development & Full-Stack Projects**
+- 💡 Love solving problems and turning ideas into projects
+- 🤝 Looking to collaborate on **Python, AI & Web Projects**
+- 🚀 Always excited to learn new technologies
+- 💬 Ask me about **Python, Java, C, Web Development**
+- 📫 Reach me at **velugulasruthi06@gmail.com**
 
-## 🚀 Tech Stack
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+> ✨ *Learning something new every day and building something better every time.*
 
 ---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
 
----
+### 🤖 AI & Machine Learning
 
-### ☁️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+### ☁️ Cloud & Tools
 
----
-
-## 📬 Catch me!
-
-<p align="center">
-  <a href="mailto:velugulasruthi06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/velugula-sruthi-682153331">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,mongodb" />
 </p>
 
 ---
 
-⭐️ From [Sruthi06oct](https://github.com/Sruthi06oct)
+## 🚀 What I'm Working On
+
+```text
+🤖 Artificial Intelligence
+🌱 Machine Learning
+☁️ AWS & Cloud Technologies
+🌐 Web Development
+💡 Real-World Projects
+🧩 Problem Solving
