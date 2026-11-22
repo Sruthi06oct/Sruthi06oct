@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/linkedin.com/in/velugula-sruthi-682153331"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:velugulasruthi06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
